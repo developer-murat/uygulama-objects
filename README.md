@@ -1,0 +1,2 @@
+# uygulama-objects
+UYGULAMA OBJECTS
